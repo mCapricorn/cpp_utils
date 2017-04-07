@@ -1,5 +1,4 @@
-# cpp_helper
-
+# C++ 常用工具类
 
 # [textconv_helper](https://github.com/LowBoyTeam/cpp_helper/blob/master/textconv_helper.hpp)
   这个库使用 Win32 Api 实现了atlconv.h 的功能!

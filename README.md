@@ -9,5 +9,9 @@
 
 # [string_helper](https://github.com/LowBoyTeam/cpp_helper/blob/master/string_helper.hpp)
   扩展std::string很多常用的字符串处理功能!
+  
 # [url_helper](https://github.com/LowBoyTeam/cpp_helper/blob/master/url_helper.hpp)
   URL编码解码实现,源码来自php
+
+# [filefinder_helper](https://github.com/LowBoyTeam/cpp_utils/blob/master/filefinder_helper.hpp)
+  文件查找,搜索
